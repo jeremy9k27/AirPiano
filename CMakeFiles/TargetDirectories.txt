@@ -1,0 +1,4 @@
+C:/Users/sangj/AirPiano/CMakeFiles/AirPiano.dir
+C:/Users/sangj/AirPiano/CMakeFiles/findFingersTest.dir
+C:/Users/sangj/AirPiano/CMakeFiles/ALL_BUILD.dir
+C:/Users/sangj/AirPiano/CMakeFiles/ZERO_CHECK.dir

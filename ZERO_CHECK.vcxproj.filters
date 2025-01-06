@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sangj\AirPiano\CMakeFiles\0886dfacfd9c33c643a65eef2ba74583\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{75344598-459E-3D49-AFB3-3C999647ACD0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
